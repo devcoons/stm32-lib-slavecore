@@ -1,0 +1,19 @@
+/*!
+	@file   lib_slavecore_config.h
+	@brief  <brief description here>
+	@t.odo	-
+*/
+
+/******************************************************************************
+* Preprocessor Definitions & Macros
+******************************************************************************/
+
+#define SLAVECORE_FIRMWARE_S_ADDRESS 			0x081A0000
+#define SLAVECORE_FIRMWARE_E_ADDRESS 			0x08400000
+#define SLAVECORE_FIRMWARE_VALIDATION_VALUE 	0x24080000
+//#define SLAVECORE_FIRMWARE_ACTUAL_SIZE		<size>
+//#define SLAVECORE_FIRMWARE_CRC				<crc16ccitt>
+
+/******************************************************************************
+* EOF - NO CODE AFTER THIS LINE
+******************************************************************************/
